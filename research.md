@@ -21,5 +21,6 @@
 
 7. [Meshulam's game](https://en.wikipedia.org/wiki/Meshulam's_game) - משחק לשני שחקנים על גרף. יש לתכנת את המשחק ולבנות לו ממשק שיאפשר להריץ אותו על גרפים שונים. כמו כן, לחשב את האסטרטגיה האופטימלית על כל גרף, ולשלב בספריה `networkx`. מתאים לסטודנטים עם כישרון מתימטי.
 
+8. [Leximin order](https://en.wikipedia.org/wiki/Leximin_order) - הוספת אלגוריתם אופטימיזציה לספריה `cvxpy`.
 
 </div>
