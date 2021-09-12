@@ -28,7 +28,8 @@
 * **E-Moodles** -
 תוסף למערכת מוודל, המאפשר פרסום הודעות בפורום ישירות מהדואל.
 מאת: שני שלאל, שני חייק, שיראל ישראלוב.
-[קוד מקור](https://github.com/E-moodles).
+[קוד מקור](https://github.com/E-moodles),
+[סרטון הסבר](https://www.youtube.com/watch?v=WevvPXTk13A).
 
 * **Badkan-Moodle** -
 תוסף המקשר בין מערכת מוודל לבין הבדקן האוטומטי.
@@ -46,21 +47,25 @@
 * **הרפתקה במבוך אקראי** -
  משחק הממחיש אלגוריתמים שונים ליצירה אוטומטית של חדרים.
 מאת: חן אוסטרובסקי.
-[קוד מקור](https://github.com/ChenOst/final-project).
+[קוד מקור](https://github.com/ChenOst/final-project),
+[קובץ זיפ מוכן לפתיחה ביוניטי](https://drive.google.com/file/d/1DbqsatmBuFdpSCTQbFHp9exXPX0o9bhl/view?usp=sharing).
 
 * **מבוך מיוחד** - משחק להמחשת ההתמודדות של בעלי מוגבלויות שונות.
 מאת: תם לטין, יראת פלג, אריאל דואק.
-[קוד מקור](https://github.com/GameDev-TAY/Final_Project).
+[קוד מקור](https://github.com/GameDev-TAY/Final_Project),
+[המשחק](https://gamedev-tay.itch.io/the-spacial-maze).
 
 * **Mix-It** -
 משחק ללימוד צביעה - מעלים תמונה וצובעים אותה ע"י ערבוב צבעים.
 מאת: יוגב חסיד, רון עזו.
-[קוד מקור](https://github.com/Ron-Yogev/Mix-It).
+[קוד מקור](https://github.com/Ron-Yogev/Mix-It),
+[המשחק](https://ronyogev.itch.io/mix-it).
 
 * **משחק "הגוף שלנו""** -
 משחק ללימוד על גוף האדם מבפנים.
 מאת: שירה צדוק, סלומה ניזר, שחר גליקמן.
-[קוד מקור](https://github.com/ComputerGame0/OurBodyGame).
+[קוד מקור](https://github.com/ComputerGame0/OurBodyGame),
+[המשחק](https://shahar-shira-salome.itch.io/ourbodyfinish).
 
 
 ## שנת ה'תש"ף
