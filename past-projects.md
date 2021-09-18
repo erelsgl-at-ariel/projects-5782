@@ -52,7 +52,7 @@
 
 * **מבוך מיוחד** - משחק להמחשת ההתמודדות של בעלי מוגבלויות שונות.
 מאת: תם לטין, יראת פלג, אריאל דואק.
-[קוד מקור](https://github.com/GameDev-TAY/Final_Project),
+[קוד מקור](https://github.com/FinalProjectGameDev/Special-Maze-final-project),
 [המשחק](https://gamedev-tay.itch.io/the-spacial-maze).
 
 * **Mix-It** -

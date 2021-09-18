@@ -50,6 +50,8 @@
 
 3. [Perpetual voting](https://ojs.aaai.org/index.php/AAAI/article/view/5584) - שיטת בחירות המתחשבת גם בהסטוריה על-מנת להבטיח ייצוג הוגן לאורך זמן. האתגר: האתגר: לממש את האלגוריתם, לתכנן ולבצע סקר דעת קהל, להריץ את האלגוריתם ולראות מה אפשר להבין מהתוצאות.
 
+4. [Dynamic Proportional Rankings](https://arxiv.org/abs/2105.08043) - בניית מערכת לדירוג שאלות שאזרחים מפנים לאנשי-ציבור לפי רמת הפופולריות שלהן, תוך שמירה על הגינות. 
+
 ## תורת הגרפים
 
 1. [Envy-free Matchings in Bipartite Graphs and their Applications to Fair Division](https://arxiv.org/abs/1901.09527) - אלגוריתם לחישוב שידוך ללא-קנאה גדול ביותר, וכמה אלגוריתמים לחלוקה הוגנת המשתמשים בו. יש לתכנת את האלגוריתם ולשלב אותו בספריה `networkx`.
