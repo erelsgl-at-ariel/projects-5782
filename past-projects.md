@@ -39,7 +39,8 @@
 * **מתזמן הארוחות** -
 אפליקציה לניהול מלאי מזון, מתכונים, ותפריטים יומיים, שבועיים, חודשיים ושנתיים.
 מאת: אלעד ויינברנד,  סיוון-נעמה עזרי. 
-[קוד מקור](https://github.com/Meals-scheduler/Meals_Scheduler.git).
+[קוד מקור](https://github.com/Meals-scheduler/Meals_Scheduler.git), 
+[אפליקציה להתקנה](https://f2h.io/l7m0j4j49m4c).
 
 
 ### משחקים
@@ -61,7 +62,7 @@
 [קוד מקור](https://github.com/Ron-Yogev/Mix-It),
 [המשחק](https://ronyogev.itch.io/mix-it).
 
-* **משחק "הגוף שלנו""** -
+* **משחק "הגוף שלנו"** -
 משחק ללימוד על גוף האדם מבפנים.
 מאת: שירה צדוק, סלומה ניזר, שחר גליקמן.
 [קוד מקור](https://github.com/ComputerGame0/OurBodyGame),
@@ -72,13 +73,13 @@
 
 * **מעגלי המסחר** - בניית אתר אינטרנט להחלפת חפצים, תורנויות ועוד, בעזרת אלגוריתם המבטיח שהחלוקה תהיה יעילה-פארטו - כולם ירויחו ואף אחד לא יפסיד.
 מאת: אריק רחמני וטל קבסו.
-[קוד מקור][proj5780trade],
-[אתר][proj5780tradesite]
+[קוד מקור](https://github.com/aricRach/final-project),
+[אתר](https://multitrade.herokuapp.com)
 
 * **חלוקה הוגנת עם מינימום שיתופים** - מימוש, ייעול, בדיקה, ובניית אתר לאלגוריתם חדשני לחלוקה הוגנת של חפצים.
 מאת: אליהו ונחשון סתת, דניאל אברג'ל, אלישיב דרעי, נתנאל בן-ישכר, ירדן גאון.
-[קוד מקור][proj5780fair],
-[אתר][proj5780fairsite]
+[קוד מקור](https://github.com/DanielAbergel/Distribution-Algorithm),
+[אתר](https://splitup.herokuapp.com)
 
 
 * **השתתפות בפיתוח קורס משחקי מחשב ה'תש"ף**. 
@@ -86,13 +87,7 @@
 [החזון][proj5780gamedev], [הקורס][gamedev5780]
 
 
-
-
 </div>
 
 [proj5780gamedev]: https://maoz-grossman.github.io/GameDev-Ariel
-[proj5780fair]: https://github.com/DanielAbergel/Distribution-Algorithm
-[proj5780fairsite]: https://splitup.herokuapp.com
-[proj5780trade]: https://github.com/aricRach/final-project
-[proj5780tradesite]: https://multitrade.herokuapp.com
 [gamedev5780]: https://github.com/gamedev-at-ariel/gamedev-5780
