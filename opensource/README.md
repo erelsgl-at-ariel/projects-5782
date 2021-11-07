@@ -21,16 +21,18 @@
 1. **[INGInious](https://docs.inginious.org/)** – בדיקה אוטומטית של תרגילי תיכנות. 
 האתגר: לאפשר למתרגלים להעלות מטלות דרך גיטהאב, לאפשר לסטודנטים להגיש מטלות דרך גיטהאב, וכן להעלות למערכת את המטלות בקורסי התיכנות במחלקה (שנה א + ב).
 
-1. **[networkx](https://github.com/networkx/networkx/blob/main/CONTRIBUTING.rst)**  - רשתות וגרפים בפייתון. האתגר:  הוספת אלגוריתמים שונים בגרפים ורשתות.
+1. **[NetworkX](https://github.com/networkx/networkx/blob/main/CONTRIBUTING.rst)**  - רשתות וגרפים בפייתון. האתגר:  הוספת אלגוריתמים שונים בגרפים ורשתות.
 
-1. **[abcvoting](https://github.com/martinlackner/abcvoting)** - אלגוריתמים להצבעות ובחירות.
+1. **[ABCVoting](https://github.com/martinlackner/abcvoting)** - אלגוריתמים להצבעות ובחירות.
 האתגר:
 [אלגוריתמים לבדיקת תכונות של וועדות](https://github.com/martinlackner/abcvoting/issues/19),
 [נושאים נוספים](https://github.com/martinlackner/abcvoting/issues).
 
+1. **[NumberPartitioning](https://github.com/fuglede/numberpartitioning)** - אלגוריתמים לבעיות אופטימיזציה הקשורות לחלוקת מספרים לקבוצות.
+
 1. **[GeoGebra](https://github.com/geogebra/geogebra)** - מערכת גרפית לחישובים אלגבריים וגיאומטריים. האתגר: תרגום המערכת לשפת פייתון.
 
-1. **[cvxpy](https://github.com/cvxpy/cvxpy#contributing)**  - אופטימיזציה בפייתון. 
+1. **[CvxPy](https://github.com/cvxpy/cvxpy#contributing)**  - אופטימיזציה בפייתון. 
 האתגר:  הוספת אלגוריתמים שונים לאופטימיזציה.
 
 2. **[StackExchange](http://stackexchange.com)** -  אתר לשאלות ותשובות מקצועיות. 
