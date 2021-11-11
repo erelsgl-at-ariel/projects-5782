@@ -60,12 +60,10 @@
 מאת: נועה יאיר, עמית רן.
 [המשחק](https://noa-amit.itch.io/sugar-mario),
 [קדימון](https://www.youtube.com/watch?v=cfvJlQBnJtQ).
-
 * **מבוך מיוחד** - משחק להמחשת ההתמודדות של בעלי מוגבלויות שונות.
 מאת: תם לטין, יראת פלג, אריאל דואק.
 [המשחק](https://gamedev-tay.itch.io/the-spacial-maze),
 [קוד מקור](https://github.com/FinalProjectGameDev/Special-Maze-final-project).
-
 * **משחק "הגוף שלנו"** -
 משחק ללימוד על גוף האדם מבפנים.
 מאת: שירה צדוק, סלומה ניזר, שחר גליקמן.
