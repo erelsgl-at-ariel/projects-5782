@@ -18,11 +18,11 @@
 
 ## נהיגה
 
-* **Test Drive** -
+* **נסיעת מבחן** -
 מאת: אביהוא אושרי, דניאל ונטורה, אור אבוחצירה.
 [המשחק](https://avihuoshri.itch.io/test-drive),
 [קדימון](https://www.youtube.com/watch?v=cSUT7_bHgeM).
-* **Driving Master** -
+* **אומן הנהיגה** -
 מאת: בר גניש, נאור אליאב, שמעון מימון.
 [המשחק](https://bargenish.itch.io/driving-master),
 [קדימון](https://www.youtube.com/watch?v=KYMIrfdndQU).
@@ -30,7 +30,7 @@
 
 ## חשבון מתמטיקה ואלגוריתמים
 
-* **University Escape Room** - 
+* **חדר בריחה מתימטי** - 
 ברחו מהכיתה על-ידי פתרון חידות מתימטיות.
 מאת: חן אוסטרובסקי, אינה גריגור.
 [המשחק](https://chenostrovski.itch.io/university-escape-room),
