@@ -9,7 +9,6 @@
 מאת: נעמה הרטוב, מוריה ממן  ועטרה זוהר.
 [המשחק](https://atarazohar.itch.io/escaperoom-vaivrach),
 [קדימון](https://www.youtube.com/watch?v=k7SMy8pRVpg).
-
 * **חרב המכבים** -
 שיחזור מלחמות המכבים כמשחק אסטרטגיה.
 מאת: אלישע עזריה, עמנואל אלוש.
@@ -23,7 +22,6 @@
 מאת: אביהוא אושרי, דניאל ונטורה, אור אבוחצירה.
 [המשחק](https://avihuoshri.itch.io/test-drive),
 [קדימון](https://www.youtube.com/watch?v=cSUT7_bHgeM).
-
 * **Driving Master** -
 מאת: בר גניש, נאור אליאב, שמעון מימון.
 [המשחק](https://bargenish.itch.io/driving-master),
@@ -37,20 +35,17 @@
 מאת: חן אוסטרובסקי, אינה גריגור.
 [המשחק](https://chenostrovski.itch.io/university-escape-room),
 [קדימון](https://www.youtube.com/watch?v=AAFg0vJ9nCw).
-
 * **Math Runner** - 
 לימוד חשבון תוך כדי ריצה.
 מאת: אריק רחמני, טל קבסו.
 [המשחק](https://talkabaso.itch.io/mathrunner),
 [קדימון](https://www.youtube.com/watch?v=udtjcZoIcig).
-
 * **הרפתקה במבוך אקראי** -
  משחק ללימוד אלגוריתמים ליצירה אוטומטית של חדרים.
 מאת: חן אוסטרובסקי.
 [משחק בנוי לחלונות](https://drive.google.com/file/d/12X4FReN9-PRvuEUIo4-PGeNnODzdhX8t/view?usp=sharing),
 [קוד מקור](https://github.com/ChenOst/final-project),
 [קובץ זיפ מוכן לפתיחה ביוניטי](https://drive.google.com/file/d/1DbqsatmBuFdpSCTQbFHp9exXPX0o9bhl/view?usp=sharing).
-
 * **Numos** - 
 משחק הרפתקאות בעולם של תורת המספרים.
 מאת: ליאורה פינחסוב ואופק בדר.
