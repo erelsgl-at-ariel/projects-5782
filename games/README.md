@@ -4,18 +4,23 @@
 
 בשנים האחרונות, משחקי מחשב משמשים לא רק להנאה אלא גם למטרות "רציניות"
 כגון למידה או קידום המחקר.
-לפרטים ראו
-[https://en.wikipedia.org/wiki/Serious_games](Serious games).
+לפרטים ראו [Serious games](https://en.wikipedia.org/wiki/Serious_games).
 
 מטרת הפרוייקט היא לפתח משחק חינוכי או מחקרי. 
 לשם כך צריך לדעת שני דברים:
 
-1. לפתח משחקי מחשב - כמו שלומדים בקורס  [פיתוח משחקי מחשב](https://github.com/gamedev-at-ariel/gamedev-5782).
-לוח-הזמנים של הפרוייקט בסמסטר א מתלכד עם לוח הזמנים להגשת מטלות בקורס;
+* לפתח משחקי מחשב - כמו שלומדים בקורס [פיתוח משחקי מחשב](https://github.com/gamedev-at-ariel/gamedev-5782).
 
-2. לחקור לעומק את הנושא שעליו כותבים משחק - כדי שהמשחק שלכם אכן יהיה מחקרי ברמה גבוהה. לשם כך יש לדבר עם מומחים בתחום.
+* לחקור לעומק את הנושא שעליו כותבים משחק - כדי שהמשחק שלכם אכן ילמד את הדברים הנכונים. לשם כך יש להתייעץ עם מומחים בתחום.
+
+* **[לוח זמנים מפורט נמצא כאן](timetable.md)**.
+
+
 
 ## רעיונות למשחקים
+
+[אפשר לקבל רעיונות ממשחקים שכתבו סטודנטים בשנים קודמות](past-projects.md).
+הנה עוד כמה רעיונות:
 
 1. ניהול סכסוכים: אתם מגיעים לעיר שבה כולם מסוכסכים עם כולם. אתם צריכים לדבר איתם ולגרום להם להשלים ביניהם [להתייעץ עם מומחים בניהול סכסוכים].
 
@@ -39,93 +44,14 @@
 
 6. תפעול מכשירים חשמליים: יש לכם מכונת כביסה / תנור / מזגן וצריך ללמוד איך להפעיל אותם בלי תקלות / בלי להתחשמל (טוב גם כדי לחנך ילדים לזהירות בחשמל).
 
-7. לימוד הסטוריה - בחרו תקופה הסטורית שמעניינת אתכם, ובנו משחק שהעלילה שלו מתרחשת בתקופה זו. דוגמאות: Empire Earth, 1979 revolution black friday.
+7. לימוד הסטוריה: בחרו תקופה הסטורית שמעניינת אתכם, ובנו משחק שהעלילה שלו מתרחשת בתקופה זו. דוגמאות: Empire Earth, 1979 revolution black friday.
 
-8. מקצוע מעניין - בחרו קרוב-משפחה או מכר שיש לו מקצוע מעניין, דברו איתו ונסו לברר איך אפשר ללמד את המקצוע הזה במשחק.
+8. מקצוע מעניין: בחרו קרוב-משפחה או מכר שיש לו מקצוע מעניין, דברו איתו ונסו לברר איך אפשר ללמד את המקצוע הזה במשחק.
 
+1. לימוד תנ"ך וטקסטים אחרים:
+בעבר כתבתי משחק בשם
+ [טקסטיה](http://tora.us.fm/quest/world/land.php?title=%D7%9E%D7%A9%D7%97%D7%A7%3A%D7%98%D7%A7%D7%A1%D7%98%D7%99%D7%94%2F%D7%90%D7%A8%D7%A5-%D7%94%D7%9E%D7%A7%D7%A8%D7%90) ([קוד המקור](https://github.com/erelsgl/textia)),
+ משחק-רשת מרובה-שחקנים ללימוד תנ"ך וטקסטים אחרים, הכולל יצירה אוטומטית של שאלות מתוך אתר ויקיטקסט.
+אפשר לכתוב משחק בסגנון דומה, אבל מעוצב מחדש כמו משחק אמיתי.
+ 
 
-## משחקים לימודיים ומחקריים שפיתחו סטודנטים משנים קודמות
-
-### תנ"ך והסטוריה
-
-* **ויברח** -
-חדר בריחה תנכי.
-מאת: נעמה הרטוב, מוריה ממן  ועטרה זוהר.
-[המשחק](https://atarazohar.itch.io/escaperoom-vaivrach),
-[קדימון](https://www.youtube.com/watch?v=k7SMy8pRVpg).
-
-* **חרב המכבים** -
-שיחזור מלחמות המכבים כמשחק אסטרטגיה.
-מאת: אלישע עזריה, עמנואל אלוש.
-[המשחק](https://elishmanu.itch.io/the-sword-of-the-maccabees),
-[קדימון](https://www.youtube.com/watch?v=TmAM_VOHLR4).
-
-### נהיגה
-
-* **Test Drive** -
-מאת: אביהוא אושרי, דניאל ונטורה, אור אבוחצירה.
-[המשחק](https://avihuoshri.itch.io/test-drive),
-[קדימון](https://www.youtube.com/watch?v=cSUT7_bHgeM).
-
-* **Driving Master** -
-מאת: בר גניש, נאור אליאב, שמעון מימון.
-[המשחק](https://bargenish.itch.io/driving-master),
-[קדימון](https://www.youtube.com/watch?v=KYMIrfdndQU).
-
-
-### חשבון מתמטיקה ואלגוריתמים
-
-* **University Escape Room** - 
-ברחו מהכיתה על-ידי פתרון חידות מתימטיות.
-מאת: חן אוסטרובסקי, אינה גריגור.
-[המשחק](https://chenostrovski.itch.io/university-escape-room),
-[קדימון](https://www.youtube.com/watch?v=AAFg0vJ9nCw).
-
-* **Math Runner** - 
-לימוד חשבון תוך כדי ריצה.
-מאת: אריק רחמני, טל קבסו.
-[המשחק](https://talkabaso.itch.io/mathrunner),
-[קדימון](https://www.youtube.com/watch?v=udtjcZoIcig).
-
-* **הרפתקה במבוך אקראי** -
- משחק ללימוד אלגוריתמים ליצירה אוטומטית של חדרים.
-מאת: חן אוסטרובסקי.
-[משחק בנוי לחלונות](https://drive.google.com/file/d/12X4FReN9-PRvuEUIo4-PGeNnODzdhX8t/view?usp=sharing),
-[קוד מקור](https://github.com/ChenOst/final-project),
-[קובץ זיפ מוכן לפתיחה ביוניטי](https://drive.google.com/file/d/1DbqsatmBuFdpSCTQbFHp9exXPX0o9bhl/view?usp=sharing).
-
-* **Numos** - 
-משחק הרפתקאות בעולם של תורת המספרים.
-מאת: ליאורה פינחסוב ואופק בדר.
-[המשחק](https://pikateam.itch.io/numosalphe),
-[קדימון](https://www.youtube.com/watch?v=8FzbyjaTx98)
-
-
-### רפואה וגוף האדם
-
-* **Sugar Mario** -
-מאריו חולה בסוכרת - עיזרו לו לעבור את היום ברמת סוכר מאוזנת.
-מאת: נועה יאיר, עמית רן.
-[המשחק](https://noa-amit.itch.io/sugar-mario),
-[קדימון](https://www.youtube.com/watch?v=cfvJlQBnJtQ).
-
-* **מבוך מיוחד** - משחק להמחשת ההתמודדות של בעלי מוגבלויות שונות.
-מאת: תם לטין, יראת פלג, אריאל דואק.
-[המשחק](https://gamedev-tay.itch.io/the-spacial-maze),
-[קוד מקור](https://github.com/FinalProjectGameDev/Special-Maze-final-project).
-
-* **משחק "הגוף שלנו"** -
-משחק ללימוד על גוף האדם מבפנים.
-מאת: שירה צדוק, סלומה ניזר, שחר גליקמן.
-[המשחק](https://shahar-shira-salome.itch.io/ourbodyfinish),
-[קוד מקור](https://github.com/ComputerGame0/OurBodyGame),
-[קדימון](https://www.youtube.com/watch?v=9hBjBCUVuYY).
-
-
-### כישורים נוספים
-
-* **Mix-It** -
-משחק ללימוד צביעה - מעלים תמונה וצובעים אותה ע"י ערבוב צבעים.
-מאת: יוגב חסיד, רון עזו.
-[המשחק](https://ronyogev.itch.io/mix-it),
-[קוד מקור](https://github.com/Ron-Yogev/Mix-It).
